@@ -1,0 +1,15 @@
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\Linq Sorguları.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\Linq Sorguları.exe
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\Linq Sorguları.pdb
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\EntityFramework.dll
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\EntityFramework.xml
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq_Sorguları.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq_Sorguları.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.csproj.CopyComplete
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.exe
+C:\Users\profe\Desktop\Visual Projeler\Linq Sorguları\Linq Sorguları\obj\Debug\Linq Sorguları.pdb
